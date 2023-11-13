@@ -1,4 +1,4 @@
-FROM
+FROM krmp-d2hub-idock.9rum.cc/dev-test/repo_758ace256364
 
 WORKDIR /app
 
