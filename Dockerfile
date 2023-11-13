@@ -1,4 +1,4 @@
-FROM krmp-d2hub-idock.9rum.cc/dev-test/repo_758ace256364
+FROM krmp-d2hub-idock.9rum.cc/dev-test/repo_bcd2c177ee6e:latest
 
 WORKDIR /app
 
