@@ -1,4 +1,4 @@
-FROM krmp-d2hub-idock.9rum.cc/dev-test/repo_bcd2c177ee6e:latest
+FROM krmp-d2hub-idock.9rum.cc/goorm/gradle:7.3.1-jdk17
 
 WORKDIR /app
 
